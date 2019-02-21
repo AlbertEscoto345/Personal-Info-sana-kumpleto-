@@ -7,3 +7,4 @@ CITIZENSHIP: Filipino
 RELIGION: Roman Catholic
 CIVIL STATUS: Single (as it should be)
 MORE INFO TO BE ADDED
+A B
